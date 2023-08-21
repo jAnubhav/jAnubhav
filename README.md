@@ -2,7 +2,7 @@
 
 - 👦 A student
 - 🌱 I’m currently learning Javascript
-- 🧑‍💻 I generally to develop web applications
+- 🧑‍💻 I generally like to develop web applications
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...It's never done
 
