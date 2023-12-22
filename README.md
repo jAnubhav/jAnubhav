@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...It's never done
 
 
-- I use Python 🐍 and Java 🍵 as my primary languages.
+- I use Python and JavaScript as my primary languages.
 
-- Other Languages Known : C, C++ and Javascript.
+- Other Languages Known : C, C++, Java and Kotlin.
