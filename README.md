@@ -7,7 +7,10 @@
 - ⚡ Fun fact: ...It's never done
 
 
-<b>Python for Back-end</b><br>
+<b>
+Python for Back-end<br>
 JavaScript for Front-end<br>
-Java for Competitive Programming\n\n
-Other Languages Known : C, C++, Kotlin and Solidity.
+Java for Competitive Programming<br><br>
+<hr>
+Other Languages Known : C, C++, Kotlin and Solidity.<br>
+</b>
