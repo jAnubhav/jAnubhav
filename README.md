@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 👦 An Engineering Student
 - 🌱 I’m currently making projects
@@ -7,8 +7,8 @@
 - ⚡ Fun fact: ...It's never done
 
 
-- Python for Back-end
-- JavaScript for Front-end
-- Java for Competitive Programming
+Python for Back-end
+JavaScript for Front-end
+Java for Competitive Programming
 
-- Other Languages Known : C, C++, Kotlin and Solidity.
+Other Languages Known : C, C++, Kotlin and Solidity.
