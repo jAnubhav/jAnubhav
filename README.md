@@ -6,11 +6,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...It's never done
 
+<hr>
 
 <b>
 Python for Back-end<br>
 JavaScript for Front-end<br>
 Java for Competitive Programming<br><br>
-<hr>
 Other Languages Known : C, C++, Kotlin and Solidity.<br>
 </b>
