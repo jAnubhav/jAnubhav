@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 - 👦 An Engineering Student
 - 🌱 I’m currently making projects
@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...It's never done
 
 
-Python for Back-end\n
-JavaScript for Front-end\n
+<p style="color:red">Python for Back-end</p><br>
+JavaScript for Front-end<br>
 Java for Competitive Programming\n\n
 Other Languages Known : C, C++, Kotlin and Solidity.
