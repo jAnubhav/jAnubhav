@@ -9,8 +9,8 @@
 <hr>
 
 <b>
-Python for Back-end<br>
-JavaScript for Front-end<br>
-Java for Competitive Programming<br><br>
-Other Languages Known : C, C++, Kotlin and Solidity.<br>
+- Python for Back-end
+- JavaScript for Front-end
+- Java for Competitive Programming<br>
+- Other Languages Known : C, C++, Kotlin and Solidity.<br>
 </b>
