@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-- 👦 A student
-- 🌱 I’m currently learning DSA in C
-- 🧑‍💻 I generally like to develop web applications
+- 👦 An Engineering Student
+- 🌱 I’m currently making projects
+- 🧑‍💻 I generally develop web-based applications.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...It's never done
 
 
-- I use Python and JavaScript as my primary languages.
+- Python for Back-end
+- JavaScript for Front-end
+- Java for Competitive Programming
 
-- Other Languages Known : C, C++, Java, Kotlin and Solidity.
+- Other Languages Known : C, C++, Kotlin and Solidity.
