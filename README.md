@@ -8,7 +8,7 @@
 
 <hr>
 
-- Python for Back-end
-- JavaScript for Front-end
-- Java for Competitive Programming<br>
-- Other Languages Known : C, C++, Kotlin and Solidity.<br>
+- Python for Web Back-end Development
+- JavaScript for Web Front-end Development.
+- C and Java for Competitive Programming.
+- Other Languages Known : C++, Kotlin and Solidity.
