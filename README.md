@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 👦 An Engineering Student
-- 🌱 I’m currently making projects
-- 🧑‍💻 I generally develop web-based applications.
+- 👦 Just a regular guy
+- 🌱 Currently focusing on DSA and web-development
+- 🧑‍💻 I love to develop web-based applications
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...It's never done
 
